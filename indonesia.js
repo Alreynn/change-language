@@ -4,7 +4,7 @@ function changeLangID() {
         headings[0].innerHTML = "Bahasa Relatif"
         headings[1].innerHTML = "Selamat datang di Website Bahasa Relatif";
         paragraph[0].innerHTML = "Disini aku akan mempertunjukkan kalian teknik merubah bahasa ke Bahasa Inggris menggunakan JavaScript."
-        headings[2].innerHTML = 'Kalian bisa menekan tombol "English" pada bagian ata';
+        headings[2].innerHTML = 'Kalian bisa menekan tombol "English" pada bagian atas';
         paragraph[1].innerHTML = "Ini akan merubah bahasa ke Bahasa Inggris. Cobalah!";
         
         headings[3].innerHTML = "Sekedar pengingat!";
