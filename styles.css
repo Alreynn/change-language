@@ -26,8 +26,8 @@ ul {
     list-style: none;
 }
 .containerWhite {
-    padding: 20px;
-    margin: 30px;
+    padding: 2em;
+    margin: 10vw;
     background-color: #fff;
 }
 p {
@@ -36,7 +36,7 @@ p {
 }
 .containerRed {
     background-color: #ff0000;
-    padding: 15px;
+    padding: 2vw;
     color: #fff;
 }
 footer {
@@ -46,9 +46,6 @@ footer {
 }
 
 @media(min-width: 780px) {
-    h1 {
-        font-size: 3rem;
-    }
     p {
         font-size: 2.5vw;
     }
